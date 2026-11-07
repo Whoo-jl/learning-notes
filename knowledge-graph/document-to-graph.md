@@ -173,3 +173,7 @@ PDF 或扫描件的抽取文本通常还会经过版面解析或 OCR（把图像
 | 两份文档怎样支持两跳问答？ | 先验证它们说的是同一个 D012，再按关系方向组合两条边，检查时间适用范围，并给每跳配原文。 |
 
 文中把中文开源教程、公开课程、行业演讲文字整理和实践文章用于解释构建步骤，用国际标准、官方文档与工程博客核对表示、对齐与追溯细节。视频相关内容依据公开课程文字和配套工程文章。 [Neo4j 实体对齐演讲页面](https://neo4j.com/videos/nodes-2024-entity-resolved-knowledge-graphs/) · [Neo4j 配套工程文章](https://neo4j.com/blog/developer/entity-resolved-knowledge-graphs/)
+
+## 下一篇
+
+[GraphRAG 学习笔记：从用户提问到两跳检索与原文引用](graph-rag-query.md) 接着用林晨和客户支持部的例子，说明查询时如何定位实体、沿图找负责人，再逐跳回查原文。
