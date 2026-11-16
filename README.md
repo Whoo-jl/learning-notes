@@ -7,6 +7,7 @@
 - [WeKnora Wiki 构建与检索流程](weknora/wiki-build-and-search.md)：构建、页面维护、检索问答与命中片段。
 - [RAG 检索中的粗排与精排](rag/retrieval-and-reranking.md)：多路召回、候选融合、精排方法、Top K 和证据评估。
 - [RAG 分块策略详解](rag/chunking-strategies.md)：切分算法、索引与上下文、语料示例、评估和问答。
+- [Text-to-SQL：SQL 能执行但答案不正确，怎么办？](text-to-sql/executable-but-wrong.md)：从语义层、意图结构化、AST 校验、结果验证到面试回答与落地清单。
 - [知识图谱入门与文档构建](knowledge-graph/document-to-graph.md)，从实体与 Schema 到抽取、对齐、原文证据和跨文档问答。
 - [知识图谱的信息抽取与开放式抽取实战](knowledge-graph/open-information-extraction.md)，对比抽取方法，配有 Python 提示词、预期 JSON 和原文核对示例。
 - [GraphRAG 两跳检索与原文引用](knowledge-graph/graph-rag-query.md)，从用户问题、实体定位和图遍历到逐跳证据与答案生成。
